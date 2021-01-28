@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `💎 Comandos do BrizasBot 💎  
+	return `💎 Comandos do ALN-BOT4 💎  
 🔰 Principais Comandos 🔰 
 
 Comando: '${prefix}botvip'
@@ -143,6 +143,26 @@ Função: pegue o link do grupo
 Como Usar: basta enviar o comando
 Obs: só pode ser usado quando o bot se torna admin, e quem enviar o comando é admin! 
 
+Comandos: '${prefix}demote'
+Função: tornar o administrador um membro comum
+Como Usar: '${prefix}demote' e o @da pessoa
+Obs: Este comando pode ser usado se você for um administrador do grupo 
+
+Comandos: '${prefix}promote'
+Função: tornar membro do grupo um administrador
+Como Usar: '${prefix}promote' e o @da pessoa
+Obs: Este comando pode ser usado se você for um administrador do grupo 
+
+Comandos: '${prefix}add'
+Função: Adicionar membros ao grupo
+Como Usar: '${prefix}add' 5585xxxxx
+Obs: Este comando pode ser usado se você for um administrador do grupo 
+
+Comandos: '${prefix}kick'
+Função: remover membros do grupo
+Como Usar: 1${prefix}kick' e o @da pessoa
+Obs: Este comando pode ser usado se você for um administrador do grupo 
+
 Comandos: '${prefix}tagall'
 Função: marca todos os membros do grupo, incluindo administradores também
 Como Usar: basta enviar o comando
@@ -153,13 +173,15 @@ Função: ative o modo simi no grupo
 Como Usar: '${prefix}simih 1' para ativar o modo simih e '${prefix}simih 0' para desativar o modo simih
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
-🔰 Como instalar o bot?? 🔰 
+🔰 Numero do Meu Dono 🔰 
 
-https://fir3.net/ELR5uKC
+[ wa.me/5586988036194 ]
 
-🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
+🔰 GRUPO OFC ALN-BOT 🔰
 
-https://enrt.eu/kN7iGtl4 (so de entrar no link ajuda)
+https://chat.whatsapp.com/Df7iydEZWZl8k2giVVr61s
+https://chat.whatsapp.com/Df7iydEZWZl8k2giVVr61s
+https://chat.whatsapp.com/Df7iydEZWZl8k2giVVr61s
 
 `
 }
